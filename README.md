@@ -487,6 +487,14 @@ Description: Write a CTAS query to create a new table that lists each member and
 
 
 
+## 🧩 ER Diagram
+
+The following ER diagram represents the data model for the Library Management System:
+
+![Library ER Diagram](assets/images/library_er_diagram.png)
+
+
+
 ## Reports
 
 - **Database Schema**: Detailed table structures and relationships.
